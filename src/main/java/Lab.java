@@ -9,7 +9,7 @@ public class Lab {
      * the line throw new FileNotFoundException();
      *
      * You will need to add a 'throws CustomException' declaration to this method, and throw a new CustomException
-     * within this method.
+     * within this method
      *
      * This also means that you should NOT write a try/catch block in this method, as the tests are expecting to have
      * a method thrown to it. A try/catch block would handle the exception within the method. The tests, on the other
